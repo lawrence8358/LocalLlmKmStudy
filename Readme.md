@@ -4,8 +4,8 @@
 
 ---
 ## 本系列文章連結
-1. 前言及流程規劃。
-2. 建置本地端 Ollama 服務及 LLM 知識庫所需的環境設置。
+1. [前言及流程規劃](https://lawrencetech.blogspot.com/2025/03/ai-rag-llm.html)。
+2. [建置本地端 Ollama 服務及 LLM 知識庫所需的環境設置](https://lawrencetech.blogspot.com/2025/04/ollama-llm.html)。
 3. 蝦咪系 Word embeddings？詞嵌入模型概念及實作。
 4. Hello Gemini，串接第一個 Gemini 生成式 AI。
 5. 做個有記憶力的 AI 機器人，實作對話記憶。
