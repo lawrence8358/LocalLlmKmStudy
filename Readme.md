@@ -7,7 +7,7 @@
 1. [前言及流程規劃](https://lawrencetech.blogspot.com/2025/03/ai-rag-llm.html)。
 2. [建置本地端 Ollama 服務及 LLM 知識庫所需的環境設置](https://lawrencetech.blogspot.com/2025/04/ollama-llm.html)。
 3. [蝦咪系 Word embeddings？詞嵌入模型概念及實作](https://lawrencetech.blogspot.com/2025/04/word-embedding.html)。
-4. Hello Gemini，串接第一個 Gemini 生成式 AI。
+4. [Hello Gemini，串接第一個 Gemini 生成式 AI](https://lawrencetech.blogspot.com/2025/06/hello-gemini-gemini-ai.html)。
 5. 做個有記憶力的 AI 機器人，實作對話記憶。
 6. 來跟 AI 玩玩角色扮演吧，提示工程（Prompt engineering）實作。
 7. 解決 AI 幻覺，讓 RAG 幫你吧。
@@ -23,9 +23,11 @@ Root
 |__ OllamaEnvBuild
 |   |__ docker-compose.yaml，詞嵌入模型環境
 |__ EmbeddingLab
-|   |__ 詞嵌入模型實作，使用 Ollama 套件
+|   |__ 詞嵌入模型概念及實作，使用 Ollama 套件
 |__ EmbeddingLab2
-|   |__ 詞嵌入模型實作，自行實作
+|   |__ 詞嵌入模型概念及實作，自行實作 ITextEmbeddingGenerationService
+|__ HelloGemini
+|   |__ 串接第一個 Gemini 生成式 AI
 ```
 
 ---
