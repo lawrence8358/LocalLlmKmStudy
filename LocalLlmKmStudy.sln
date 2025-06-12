@@ -9,10 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddingLab2", "EmbeddingL
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{53525321-6B65-47D5-AA2E-DB977423AA72}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGemini", "HelloGemini\HelloGemini.csproj", "{EEF0EA3D-660E-474D-802F-F96AB15E3D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGeminiMemory", "HelloGeminiMemory\HelloGeminiMemory.csproj", "{9D9906B4-062A-4A1D-9F27-5E7AEB799305}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +35,10 @@ Global
 		{EEF0EA3D-660E-474D-802F-F96AB15E3D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEF0EA3D-660E-474D-802F-F96AB15E3D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEF0EA3D-660E-474D-802F-F96AB15E3D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9906B4-062A-4A1D-9F27-5E7AEB799305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9906B4-062A-4A1D-9F27-5E7AEB799305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9906B4-062A-4A1D-9F27-5E7AEB799305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9906B4-062A-4A1D-9F27-5E7AEB799305}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
