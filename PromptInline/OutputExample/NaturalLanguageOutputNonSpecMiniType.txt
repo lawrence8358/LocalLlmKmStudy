@@ -1,0 +1,10 @@
+```json
+{
+    "tw": "今天早上8點，台電發生電壓驟降。請各設備負責人檢查相關機台狀況。如有異常，請聯繫廠內值班人員，電話：886886。",
+    "en": "At 8:00 AM this morning, Taipower experienced a voltage drop. Please ensure that the personnel responsible for each piece of equipment check the condition of the corresponding machines. If there are any problems, please contact the on-duty staff in the factory at telephone number 886886.",
+    "jp": "今朝8時、台湾電力で電圧降下が発生しました。各設備の担当者は、関連する機械の状態を確認してください。問題がある場合は、工場内の当直担当者（電話番号：886886）までご連絡ください。",
+    "vn": "Vào lúc 8:00 sáng nay, Taipower đã xảy ra tình trạng sụt áp. Đề nghị người phụ trách từng thiết bị kiểm tra tình trạng của các máy móc liên quan. Nếu có bất kỳ vấn đề gì, vui lòng liên hệ nhân viên trực ban tại nhà máy theo số điện thoại 886886.",
+    "ph": "Kaninang 8:00 AM ngayong umaga, nakaranas ang Taipower ng pagbaba ng boltahe. Pakiusap na tiyakin na ang mga tauhang responsable para sa bawat kagamitan ay suriin ang kondisyon ng mga kaukulang makina. Kung mayroong anumang problema, mangyaring makipag-ugnayan sa on-duty na staff sa pabrika sa numerong telepono 886886.",
+    "input-code": "de"
+}
+```
