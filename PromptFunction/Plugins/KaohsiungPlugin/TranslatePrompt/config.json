@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "description": "多國語言翻譯",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 10,
+      "temperature": 0.5,
+      "response_schema": "PromptFunction.LanguageTranslation, PromptFunction",
+      "response_mimetype": "application/json"
+    }
+  },
+  "input_variables": [
+    {
+      "name": "user_input",
+      "description": "使用者輸入",
+      "default": ""
+    },
+    {
+      "name": "class_type",
+      "description": "LLM返回的JSON結構",
+      "default": ""
+    }
+  ]
+}

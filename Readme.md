@@ -33,7 +33,7 @@ Root
 |__ PromptInline
 |   |__ 來跟 AI 玩玩角色扮演吧，提示工程（Prompt engineering）實作，第一階段：程式內寫死的 Hot Code Prompt
 |__ PromptFunction
-|   |__ 來跟 AI 玩玩角色扮演吧，提示工程（Prompt engineering）實作，第二階段：使用 Prompt Plugin（Semantic Function）
+|   |__ 來跟 AI 玩玩角色扮演吧，提示工程（Prompt engineering）實作，第二階段：使用 Prompt Plugin（Semantic Plugin）
 ```
 
 ---
